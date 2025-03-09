@@ -1,0 +1,7 @@
+C:\Users\piotr\source\repos\Data_streams\Data_streams\bin\Debug\Data_streams.exe.config
+C:\Users\piotr\source\repos\Data_streams\Data_streams\bin\Debug\Data_streams.exe
+C:\Users\piotr\source\repos\Data_streams\Data_streams\bin\Debug\Data_streams.pdb
+C:\Users\piotr\source\repos\Data_streams\Data_streams\obj\Debug\Data_streams.csproj.AssemblyReference.cache
+C:\Users\piotr\source\repos\Data_streams\Data_streams\obj\Debug\Data_streams.csproj.CoreCompileInputs.cache
+C:\Users\piotr\source\repos\Data_streams\Data_streams\obj\Debug\Data_streams.exe
+C:\Users\piotr\source\repos\Data_streams\Data_streams\obj\Debug\Data_streams.pdb
